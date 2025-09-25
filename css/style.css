@@ -58,9 +58,8 @@ h1{
   color: black;
 }
 .logo_1 {
-  float:left;
-  top:50px;  
-  width: 80px;          
+  float:left;  
+  width: 120px;          
   height: auto;         
   z-index: 1000;   
 }
@@ -68,7 +67,7 @@ h1{
   position: fixed;   
   top: 47px;         
   right: 10px;       
-  width: 80px;       
+  width: 120px;       
   height: auto;      
   z-index: 1000;     
 }
@@ -85,7 +84,7 @@ h1{
   position: fixed;      
   bottom: 10px;         
   right: 10px;          
-  width: 80px;          
+  width: 120px;          
   height: auto;         
   z-index: 1000;        
 }
