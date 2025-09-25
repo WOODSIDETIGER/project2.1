@@ -83,3 +83,7 @@ h1{
   height: auto;         
   z-index: 1000;        
 }
+.resumelist {
+  list-style: none;
+  padding-left: 0;
+}
