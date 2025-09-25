@@ -1,6 +1,6 @@
 body{
   background-color:rgb(113, 128, 120);
-  font-family: "WDXL Lubrifont SC", sans-serif;
+  font-family: "WDXL Lubrifont SC", Times, serif;
 }
 #main-navbar {
   background-color:black;
@@ -47,7 +47,7 @@ h1{
   text-align: center;    
 }
 .greeting {
-  font-family: Arial, sans-serif;
+  font-family: Arial, Times, serif;
   font-size: 30px;
   line-height: 1.6;
   max-width: 800px;
