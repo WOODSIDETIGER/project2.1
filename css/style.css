@@ -1,6 +1,7 @@
 body{
   background-color:rgb(113, 128, 120);
   font-family: "WDXL Lubrifont SC", Times, serif;
+  margin:20px;
 }
 #main-navbar {
   background-color:black;
