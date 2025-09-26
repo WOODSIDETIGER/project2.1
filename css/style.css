@@ -89,6 +89,7 @@ h1{
   padding-left: 0;
 }
 .youtube{
+  float:left;
   width: 560px;
   height: 315px;
   display: block;
